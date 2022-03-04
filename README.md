@@ -1,1 +1,1 @@
-0x00-Shell_basics
+create a script that switches the current user to betty
